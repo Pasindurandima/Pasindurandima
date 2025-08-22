@@ -224,37 +224,6 @@ const developer = {
 
 ---
 
-## 🎯 Current Focus
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[🚀 Current Goals] --> B[📱 Mobile Development]
-    A --> C[☁️ Cloud Architecture]
-    A --> D[🤖 AI/ML Integration]
-    A --> E[🔐 Cybersecurity]
-    
-    B --> F[React Native]
-    B --> G[Flutter]
-    
-    C --> H[AWS Solutions]
-    C --> I[Kubernetes]
-    
-    D --> J[TensorFlow]
-    D --> K[OpenAI API]
-    
-    E --> L[Security Best Practices]
-    E --> M[Penetration Testing]
-
-    style A fill:#6366f1,stroke:#4338ca,stroke-width:3px,color:#fff
-    style B fill:#8b5cf6,stroke:#7c3aed,stroke-width:2px,color:#fff
-    style C fill:#06b6d4,stroke:#0891b2,stroke-width:2px,color:#fff
-    style D fill:#10b981,stroke:#059669,stroke-width:2px,color:#fff
-    style E fill:#f59e0b,stroke:#d97706,stroke-width:2px,color:#fff
-```
-
-</div>
 
 ---
 
