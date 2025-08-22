@@ -389,12 +389,12 @@ Whether you want to discuss the latest tech trends, collaborate on a project, or
 
 ---
 
-## 🎉 Fun Facts & Memes
+
 
 <div align="center">
 
 <details>
-<summary>😄 Click for some developer humor!</summary>
+
 
 <br>
 
