@@ -271,26 +271,7 @@ contributions:
     - Documentation
 ```
 
-### 🎯 Notable Contributions
 
-- 🔧 **React Router** - Fixed routing edge cases
-- 🌐 **Next.js** - Contributed to documentation
-- 🐍 **FastAPI** - Added new middleware features
-- 📊 **Chart.js** - Performance optimizations
-- 🎨 **Tailwind CSS** - New utility classes
-
----
-
-## 💻 Development Setup
-
-<details>
-<summary>🛠️ Click to see my development environment</summary>
-
-### Hardware
-- 💻 MacBook Pro M2 16" (2023)
-- 🖥️ Dell UltraSharp 4K Monitor
-- ⌨️ Mechanical Keyboard (Cherry MX Blue)
-- 🖱️ Logitech MX Master 3
 
 ### Software
 - **Editor:** VS Code with 20+ extensions
@@ -319,27 +300,7 @@ contributions:
 
 ---
 
-## 📚 Learning Journey
 
-<div align="center">
-
-### 🎯 2024 Learning Goals
-
-</div>
-
-- [ ] 🧠 **Machine Learning** - TensorFlow & PyTorch
-- [ ] 🌐 **Web3** - Blockchain & Smart Contracts
-- [ ] 📱 **Mobile Development** - React Native & Flutter
-- [ ] ☁️ **Advanced Cloud** - Multi-cloud architecture
-- [ ] 🔒 **Cybersecurity** - Ethical hacking & penetration testing
-- [ ] 🎨 **3D Graphics** - Three.js & WebGL
-
-### 📖 Currently Reading
-- "System Design Interview" by Alex Xu
-- "Clean Architecture" by Robert C. Martin
-- "Designing Data-Intensive Applications" by Martin Kleppmann
-
----
 
 ## 🎨 Fun Stuff
 
