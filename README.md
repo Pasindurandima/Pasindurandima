@@ -427,7 +427,6 @@ Senior Dev: "I don't know what I'm doing" 🤔
 
 ---
 
-**✨ "The best way to predict the future is to implement it." - Alan Kay ✨**
 
 *Thanks for visiting my profile! Have a great day! 🌟*
 
