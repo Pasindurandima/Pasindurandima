@@ -416,16 +416,10 @@ Senior Dev: "I don't know what I'm doing" 🤔
 
 </div>
 
----
 
 <div align="center">
 
-### ⭐ If you made it this far, you're awesome! ⭐
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
-[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)](https://github.com/yourusername)
-
----
 
 
 *Thanks for visiting my profile! Have a great day! 🌟*
