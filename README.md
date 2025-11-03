@@ -41,7 +41,7 @@ const developer = {
 - 👯 Looking to collaborate on **Open Source Projects**
 - 🤔 Seeking help with **System Design & Scalability**
 - 💬 Ask me about **React, Node.js, Python, or anything tech**
-- 📫 Reach me at: **your.email@gmail.com**
+- 📫 Reach me at: **pasirandima2001@gmail.com**
 - ⚡ Fun fact: **I think semicolons in JavaScript are optional** 😄
 
 ---
@@ -144,36 +144,8 @@ const developer = {
 <tr>
 <td width="50%">
 
-### 🏠 Real Estate Platform
-**Property Management System**
 
-[![Real Estate](https://img.shields.io/badge/Live_Demo-FF7675?style=for-the-badge&logo=heroku&logoColor=white)](https://your-realestate-demo.com)
-[![GitHub](https://img.shields.io/badge/Source_Code-74B9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/realestate)
 
-- 🏡 Property listing with advanced search
-- 🗺️ Interactive maps integration
-- 📸 Image gallery with lazy loading
-- 💌 Contact form with email notifications
-- 🔍 SEO optimized pages
-
-**Tech Stack:** Next.js, TypeScript, PostgreSQL, AWS S3
-
-</td>
-<td width="50%">
-
-### 🎵 Music Streaming App
-**Full Stack Audio Platform**
-
-[![Music App](https://img.shields.io/badge/Live_Demo-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://your-music-demo.com)
-[![GitHub](https://img.shields.io/badge/Source_Code-FFD93D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/musicapp)
-
-- 🎶 Audio streaming with custom player
-- 🎧 Playlist creation and management
-- 👥 Social features and sharing
-- 🔊 Audio visualization
-- 📱 Mobile-first design
-
-**Tech Stack:** Angular, Node.js, MongoDB, Socket.io
 
 </td>
 </tr>
